@@ -8,4 +8,4 @@ Testbefehle
 
 3. git add .
 
-4. git commit m "weitere befehle"
+4. git commit -m "weitere befehle"
